@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: b7a8b28a88898a547b449ab7472926ce
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 722463236ae979b44a9bc334931c3e2e
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Area 1/Level_1_0.unity
+    guid: 29fcad6739538144eb6b3688e836f884
+  - enabled: 1
+    path: Assets/Scenes/Area 1/Level_1_1.unity
+    guid: de2b7b697618df24e90322cf762bb141
+  - enabled: 1
+    path: Assets/Scenes/Area 1/Level_1_2.unity
+    guid: d5524b96eee903248bc5739591902bc2
+  - enabled: 1
+    path: Assets/Scenes/tutorial.unity
+    guid: d0bf4c0948c750a4b90dd0a12bf50108
+  - enabled: 1
+    path: Assets/Scenes/Area 2/Level_2_0.unity
+    guid: 729152e9074b9314eb793f365e8af91b
+  - enabled: 1
+    path: Assets/Scenes/Area 2/Level_2_1.unity
+    guid: e8b052594299f8942ab0ea19d2aacd31
+  - enabled: 1
+    path: Assets/Scenes/Area 2/Level_2_2.unity
+    guid: 3f986ab05e4446144ba457e39a7670d7
+  - enabled: 1
+    path: Assets/Scenes/Death Screen.unity
+    guid: ec6c53ef4aadb2044907468d46e30e67
+  - enabled: 1
+    path: Assets/Scenes/You Won.unity
+    guid: 17e44d2eee56d434ba1c73c50f4970e0
+  - enabled: 1
+    path: Assets/Scenes/Timer Out.unity
+    guid: 3d81695172db83c4fa7f4c068e21f94d
+  m_configObjects: {}
